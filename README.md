@@ -29,8 +29,8 @@ npm run dev
 ## Frontend
 
 - react
-  react-dom
-  React-router
+- react-dom
+- React-router
 - react-script
 - react-vitals
 
